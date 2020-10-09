@@ -1,0 +1,13 @@
+[{
+    "app": "casino app",
+    "stage": "unreleased",
+    "release": [{
+        "platform": "android",
+        "url": "www.google.com"
+    },{
+        "platform": "ios",
+        "url": "www.google.com"
+    }
+]
+}
+]

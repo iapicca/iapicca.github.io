@@ -1,0 +1,15 @@
+[{
+    "package": "yak",
+    "url": "https://pub.dev/packages/yak",
+    "stage": "alpha"
+},
+{
+    "package": "yak extensions",
+    "url": "https://pub.dev/packages/yak_extensions",
+    "stage": "alpha"
+},
+{
+    "package": "yak runner",
+    "url": "https://pub.dev/packages/yak_runner",
+    "stage": "alpha"
+}]
